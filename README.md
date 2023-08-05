@@ -1,3 +1,5 @@
+## About Me
+
 Passionate Data Analyst with extensive experience in sustainability and environmental management, leveraging expertise in data science, GHG inventories, and strategic planning. Looking to contribute to impactful data-driven decision-making in sustainability-focused organizations as a Data Analyst or Data Scientist.
 
 ## Core Competencies
@@ -66,7 +68,7 @@ Passionate Data Analyst with extensive experience in sustainability and environm
 - Strategic Carbon Management, FGV, 30 hours
 - Intermediate Python, DataCamp, 4 hours
 
-## Academic Publications
+## Academic Papers
 
 - [Two new species of Cyphocharax from headwaters of the Jequitinhonha and São Francisco basins, MG, Brazil](#)
 - [Automatic textual analysis of Sustainability reports from companies in B3's ISE portfolio](#)
