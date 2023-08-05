@@ -21,6 +21,15 @@
           <img src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
 
+        <div class="personal-info">
+          <h2>Gabriel Caetano Guimarães de Mello</h2>
+          <p><strong>Location:</strong> Belo Horizonte, Minas Gerais, Brazil</p>
+          <p><strong>Phone:</strong> +55 31 99936 3088</p>
+          <p><strong>Email:</strong> <a href="mailto:mellogcg@gmail.com">mellogcg@gmail.com</a></p>
+          <p><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/gabriel-guimaraes-de-mello/">Connect with me</a></p>
+          <p><strong>GitHub:</strong> <a href="https://github.com/Mello-Gabriel/">Check my GitHub Profile</a></p>
+        </div>      
+
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
         {% if site.github.is_project_page %}
@@ -43,14 +52,17 @@
 
       {{ content }}
 
-      </section>
-      <footer>
-        {% if site.github.is_project_page %}
-        <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
-        {% endif %}
-        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
-      </footer>
-    </div>
-    <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
-  </body>
+    </section>
+    <footer>
+      <!-- Contact Me here -->
+      <h2>Contact Me</h2>
+      <p>If you are interested in collaboration, have inquiries about my availability, or simply want to discuss shared interests, feel free to <a href="mailto:mellogcg@gmail.com">email me</a> or connect with me on <a href="https://www.linkedin.com/in/gabriel-guimaraes-de-mello/">LinkedIn</a>. I look forward to exploring opportunities to work together!</p>
+      
+      {% if site.github.is_project_page %}
+      <p>This portfolio is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
+      {% endif %}
+    </footer>
+  </div>
+  <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
+</body>
 </html>

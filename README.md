@@ -1,13 +1,3 @@
-# Gabriel Caetano Guimarães de Mello
-
-**Location**: Belo Horizonte, Minas Gerais, Brazil  
-**Phone**: +55 31 99936 3088  
-**Email**: [mellogcg@gmail.com](mailto:mellogcg@gmail.com)  
-**LinkedIn**: [Profile Link](https://www.linkedin.com/in/gabriel-guimaraes-de-mello/)  
-**GitHub**: [Profile Link](https://github.com/Mello-Gabriel)
-
-## Summary
-
 Passionate Data Analyst with extensive experience in sustainability and environmental management, leveraging expertise in data science, GHG inventories, and strategic planning. Looking to contribute to impactful data-driven decision-making in sustainability-focused organizations as a Data Analyst or Data Scientist.
 
 ## Core Competencies
