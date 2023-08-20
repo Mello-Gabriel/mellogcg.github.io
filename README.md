@@ -2,6 +2,17 @@
 
 Passionate Data Analyst with extensive experience in sustainability and environmental management, leveraging expertise in data science, GHG inventories, and strategic planning. Looking to contribute to impactful data-driven decision-making in sustainability-focused organizations as a Data Analyst or Data Scientist.
 
+## Projects
+
+### Corporate Sustainability Reports Analysis
+- **Repository**: [PA_IGTI on GitHub](https://github.com/Mello-Gabriel/PA_IGTI)
+- **Description**: PA_IGTI is a project focused on analyzing corporate sustainability reports. It includes routines for data collection, text extraction, word cloud generation, similarity calculations, and a Streamlit web application for visualization. This project was part of the final credits required for approval in the Data Science MBA from the IGTI institute, now known as XP Education.
+- **Technologies**: Python, Streamlit, Power BI, WordCloud, Pandas, etc.
+
+### CENIPA 15 - Fauna Risk Reporting Tool
+- **Repository**: [CENIPA 15 on GitHub](https://github.com/Mello-Gabriel/cenipa15)
+- **Description**: CENIPA 15 is a risk reporting tool related to fauna risk in aviation. It collects data from the CENIPA 15 risk reporting form, persists it in a CSV file, and enables analysis in Power BI. The project highlights the significance of fauna risk in aviation safety, providing insights into species, quantities, and movements of animals in aerodromes, and supports the development of strategies to reduce risk.
+- **Technologies**: Python, Jupyter Notebook, Pandas, Web Scraping, Power BI.
 ## Core Competencies
 
 - **Data Analysis**: Proficient in predictive and descriptive analysis using Python, PowerBI, SQL, and Excel.
@@ -18,6 +29,8 @@ Passionate Data Analyst with extensive experience in sustainability and environm
 - **Environmental Protocols**: GHG Protocol, SBTi, TCFD, CDP
 - **Project Management**: OKR, KPI
 - **Others**: Continuous improvement, Performance control environment, Planning for decarbonization
+
+
 
 ## Professional Experience
 
