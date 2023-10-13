@@ -1,5 +1,5 @@
 remote_theme: pages-themes/minimal@v0.2.0
-logo: "https://media.licdn.com/dms/image/C4D03AQFNqfbflyG4xQ/profile-displayphoto-shrink_400_400/0/1561261780809?e=1696464000&v=beta&t=HnLojgvM1-Q9isJJ2aKEZZ8rAO0Oge94LRUiWGikQGk"
+logo: "https://avatars.githubusercontent.com/u/63933270?v=4"
 title: "Gabriel's Data Analyst Portfolio"
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
