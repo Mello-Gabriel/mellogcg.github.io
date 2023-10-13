@@ -13,6 +13,7 @@ Passionate Data Analyst with extensive experience in sustainability and environm
 - **Repository**: [CENIPA 15 on GitHub](https://github.com/Mello-Gabriel/cenipa15)
 - **Description**: CENIPA 15 is a risk reporting tool related to fauna risk in aviation. It collects data from the CENIPA 15 risk reporting form, persists it in a CSV file, and enables analysis in Power BI. The project highlights the significance of fauna risk in aviation safety, providing insights into species, quantities, and movements of animals in aerodromes, and supports the development of strategies to reduce risk.
 - **Technologies**: Python, Jupyter Notebook, Pandas, Web Scraping, Power BI.
+  
 ## Core Competencies
 
 - **Data Analysis**: Proficient in predictive and descriptive analysis using Python, PowerBI, SQL, and Excel.
